@@ -1,2 +1,2 @@
 # Frozenlake
-school project from machine learning course
+school project for machine learning course
